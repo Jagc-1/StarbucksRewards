@@ -1,2 +1,2 @@
 # StarbucksRewards
-Copia de la página oficial de Starbucks
+Copia de la página de Starbucks
